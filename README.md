@@ -1,2 +1,2 @@
 # Eagle Microcontroller and Power Supply Module Project
-Small microcontroller module with a power supply. 
+PCB design project of a regualted voltage power module controlling the data processing operations of a 328 microcontroller. 
